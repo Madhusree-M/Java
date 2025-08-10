@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class ScannerEx
 {
   //public :  Access Modifier
   //static : To access a class we need object.. but we can run without the member functions without objects with the help of static functions
